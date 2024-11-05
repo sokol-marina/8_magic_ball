@@ -17,8 +17,7 @@ Currently, two official plugins are available:
 
 
 ## Installation
-```git clone <repository_url>
-cd magic_eight_ball```
+`git clone https://github.com/sokol-marina/8_magic_ball.git ;NBSP cd magic_eight_ball`
 
 `npm install`
 
