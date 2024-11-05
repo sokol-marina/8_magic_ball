@@ -1,6 +1,4 @@
-
-**Magic Eight Ball**
-## React + Vite
+# Magic Eight Ball
 This is a simple Magic Eight Ball project built with React and Vite. The app displays a random answer in the Magic Eight Ball when the user clicks the "Shake" button. Each answer is color-coded, and the app keeps track of how many times each color has appeared. The user can also clear the displayed answer, resetting it back to the number "8."
 
 **Features**
@@ -34,3 +32,4 @@ Scripts
 Start the development server:
 `npm run dev
 `
+Open your browser and go to `http://localhost:3000` to see the Magic Eight Ball in action.
